@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭  I’m currently working as a Principle Software Engineer at Walmart global eCommerce.
-- 🌱  I’m currently learning: react-query, graphql, K8S, TypeScript
+- 🌱  I’m currently learning: remix.run, react-query, graphql, K8S, TypeScript
 
 <!--
 **niki4810/niki4810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
